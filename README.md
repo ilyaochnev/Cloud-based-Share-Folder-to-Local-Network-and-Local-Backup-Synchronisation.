@@ -2,7 +2,7 @@
   
  <head>
   
-  # Cloud to local share folder sync with build in local backup.
+  # Cloud to local share folder sync with local backup.
 
 <body>
   <center>
