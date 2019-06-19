@@ -1,10 +1,7 @@
 <html>
   
  <head>
-  
   # Cloud to local share folder sync with build in local backup.
-  
- <\head>
   
 Tasks;
 
