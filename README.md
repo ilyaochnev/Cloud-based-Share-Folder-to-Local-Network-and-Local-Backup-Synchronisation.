@@ -1,6 +1,7 @@
-<img https://drive.google.com/open?id=1noSsgyf0WvELxSxVCaeKXGzaP_L9NSL9>
 <html>
-  
+
+<img https://drive.google.com/open?id=1noSsgyf0WvELxSxVCaeKXGzaP_L9NSL9>
+
  <head>
   
   # Cloud to local share folder sync with local backup.
