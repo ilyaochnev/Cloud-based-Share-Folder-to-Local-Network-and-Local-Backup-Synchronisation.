@@ -5,6 +5,7 @@
   # Cloud to local share folder sync with build in local backup.
 
 <body>
+  <center>
   
 Tasks;
 
