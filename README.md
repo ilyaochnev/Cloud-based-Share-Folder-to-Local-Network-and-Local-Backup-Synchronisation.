@@ -1,6 +1,6 @@
 <html>
 
-   <img src="https://www.dropbox.com/s/gzooz94pi91ybpo/Visual%20Scheme.png?dl=0">
+   <img src="https://raw.githubusercontent.com/ilyaochnev/Cloud-based-Share-Folder-to-Local-Network-and-Local-Backup-Synchronisation./master/Visual%20Scheme.png">
 
  <head>
   
