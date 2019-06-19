@@ -10,9 +10,7 @@
    <b>
   The target of the project is to synchronise the Cloud-Based Share Folder with Local Share Folder within the local private network continuously, where synchronisation will work both ways. So that if there are any changes happened within the Local Share Folder (which will be used by local users), they immediately will take a place within the Cloud Share Folder and vice versa.
 
-
-
-  <em>To Note;
+    <em>To Note;
       
 <kbd>
   <b>
