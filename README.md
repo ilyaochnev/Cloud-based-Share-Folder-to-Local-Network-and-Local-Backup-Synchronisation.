@@ -8,6 +8,7 @@
       <p>
  <img src="https://raw.githubusercontent.com/ilyaochnev/Cloud-based-Share-Folder-to-Local-Network-and-Local-Backup-Synchronisation./master/Visual%20Scheme.png">
 <code> <em>To Note;
+
 <kbd>
   <b>
    1) As soon as the Local Share Folder most likely will be part of a local FILE server, it should be able to be backed up with no errors and any other problems.
