@@ -11,8 +11,7 @@
       
 <kbd>
   1) Add the Scanner which will monitor the activity within the Share folder. Any time someone accesses the shared folder to modify it (add, delete or edit files within the network folder), the scanner will indicate which changes have been made and when they been made so that the program could do the proper mirroring in any direction.
+  2)
   
 </html>
 
-<kbd>
-  2)
